@@ -8,3 +8,4 @@ Make a comparison between two valuation algorithms (Tsitsiklis-Van Roy vs Tilley
 
 Provide Expected Positive Exposure (a.k.a. Expected Exposure), and quantiles profiles of 2.5%, 97.5%. Investigate the effect of changing model parameters on the shape of the risk profiles.
 
+[https://web.mit.edu/jnt/www/Papers/J074-99-bvr-stop.pdf]
