@@ -2,7 +2,7 @@
 ## Goal:
 Make a comparison between two valuation algorithms (Tsitsiklis-Van Roy vs Tilley) using the following portfolio as an example:
 
-(a) 5-year Amarekan option on USD interest rate (Black-Scholes model for modelling the rate)
+(a) 5-year Amerikan option on USD interest rate (Black-Scholes model for modelling the rate)
 
 (b) USD 5-year IR swap (Black-Scholes model for modelling the rate)
 
