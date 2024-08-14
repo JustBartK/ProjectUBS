@@ -16,3 +16,5 @@ on Automatic Control, Vol.40, 10, 1999
 
 - Tilley, James A. - Valuing American Options in a Path Simulation Model,
 Transactions of the Society of Actuaries, Vol.45, 499-520, 1993
+
+Please read .pptx file for more information about the project.
